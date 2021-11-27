@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Baymax104
-- 👀 I’m interested in coding, singing
-- 🌱 I’m currently learning IT in university
+- 👋 Hi, I’m @Baymax104.
+- 👀 I’m interested in coding, singing.
+- 🌱 I’m a college student.
 - 📫 How to reach me
   - QQ: 1048168235
   - WeChat: John104zhen
