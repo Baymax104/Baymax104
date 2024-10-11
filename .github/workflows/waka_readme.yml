@@ -17,4 +17,4 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_OS: "False"
-          IGNORED_REPOS: "LinuxLearning, baymax104.github.io"
+          SHOW_LOC_CHART: "False"
