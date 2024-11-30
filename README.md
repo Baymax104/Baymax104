@@ -7,7 +7,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
 
@@ -48,13 +48,17 @@ Sunday                   122 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  1 hr 6 mins         ██████████████████████░░░   87.44 % 
+dot file                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+实验xx                     1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -70,7 +74,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2024 18:47:00 UTC
+ Last Updated on 30/11/2024 18:45:01 UTC
 <!--END_SECTION:waka-->
 
 
