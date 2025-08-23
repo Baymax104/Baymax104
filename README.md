@@ -2,7 +2,7 @@
   <!--
   <img src="https://readme-typing-svg.demolab.com?font=Zhi+Mang+Xing&size=40&pause=1000&color=000000&center=true&vCenter=true&lines=Baymax%E5%B0%8F%E6%8C%AF;Hello%20World"/><br/>
   -->
-  <img src="assets/author_banner.png"/><br/>
+  <img src="assets/author_banner.png" height="300"/><br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,rust,cs,javascript,typescript" /><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,spring,vue,fastapi,docker,mysql,mongodb,linux" /><br/>
