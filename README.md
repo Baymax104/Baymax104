@@ -4,8 +4,8 @@
   -->
   <img src="assets/author_banner.png" height="300"/><br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=python,java,kotlin,c,rust,cs,javascript,typescript" /><br/>
-  <img src="https://skillicons.dev/icons?i=pytorch,spring,vue,fastapi,docker,mysql,mongodb,linux" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,java,kotlin,javascript,typescript,rust,c,cs" /><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch,spring,react,fastapi,docker,mysql,mongodb,linux" /><br/>
   <img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,androidstudio,vscode,git,vim,obsidian" /><br/>
 </div>
 
