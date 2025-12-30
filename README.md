@@ -53,15 +53,13 @@ Sunday                   158 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   48 mins             █████████████████████░░░░   85.98 % 
-Markdown                 7 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  55 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-science                  36 mins             ████████████████░░░░░░░░░   65.78 % 
-gaunghe                  19 mins             █████████░░░░░░░░░░░░░░░░   34.22 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -77,7 +75,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 18:53:55 UTC
+ Last Updated on 30/12/2025 18:55:22 UTC
 <!--END_SECTION:waka-->
 
 
