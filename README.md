@@ -10,7 +10,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C527%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C527%20hrs%2036%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.54%20million%20lines%20of%20code-blue?style=flat)
 
@@ -53,13 +53,18 @@ Sunday                   158 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   29 mins             █████████████████████████   98.42 % 
+Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  29 mins             █████████████████████████   99.16 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gaunghe                  29 mins             █████████████████████████   99.16 % 
+untitled                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 
 **I Mostly Code in Python** 
@@ -75,7 +80,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 18:54:59 UTC
+ Last Updated on 09/01/2026 18:56:28 UTC
 <!--END_SECTION:waka-->
 
 
