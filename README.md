@@ -55,48 +55,48 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   5 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   36.02 % 
-Markdown                 3 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-TypeScript               1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-HTML                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Python                   4 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
+Markdown                 3 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+YAML                     1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Go                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   41.31 % 
-VS Code                  5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.18 % 
-Opencode Cli             1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-IntelliJ IDEA            1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+VS Code                  5 hrs 17 mins       ███████████░░░░░░░░░░░░░░   43.22 % 
+PyCharm                  4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.43 % 
+IntelliJ IDEA            2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Opencode Cli             38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🐱‍💻 Projects: 
-fenghe-tools             3 hrs 51 mins       ███████░░░░░░░░░░░░░░░░░░   27.10 % 
-baymax-index-api         2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-fenghe-wechat-push       2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
-GRID                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-baymax-index             1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+GRID                     6 hrs 20 mins       █████████████░░░░░░░░░░░░   51.86 % 
+microtrend               2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+fenghe-tools             1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+doc                      49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+baymax-index-api         45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 10 mins (64.49%)
+⏱ AI Coding Time: 8 hrs 8 mins (66.57%)
 
-✍️ 4,061 lines written by AI, 70 lines written by hand (98.31% AI-written)
+✍️ 3,294 lines written by AI, 123 lines written by hand (96.4% AI-written)
 
-🔤 61,559,345 Input Tokens, 266,617 Output Tokens
+🔤 73,434,836 Input Tokens, 257,828 Output Tokens
 
-💵 $309.01 Estimated AI Cost This Week
+💵 $370.32 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 131 AI Prompts
+🧠 17 AI Sessions, 115 AI Prompts
 
-GPT                      4,442 lines         █████████████████████████   100.00 % 
+GPT                      3,772 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.31% of written lines came from AI
-📚 Verbose Prompter — average 1,727 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 1.75% of changed lines were hand-edited
+🤖 AI-Driven — 96.4% of written lines came from AI
+📚 Verbose Prompter — average 2,338 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 6.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:44:49 UTC
+ Last Updated on 04/08/2026 20:10:21 UTC
 <!--END_SECTION:waka-->
 
 
