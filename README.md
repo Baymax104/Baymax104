@@ -55,49 +55,50 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   9 hrs 15 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Markdown                 3 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-YAML                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Go                       46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Python                   9 hrs 39 mins       ███████████████░░░░░░░░░░   59.79 % 
+Markdown                 4 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+YAML                     1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Bash                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Shell Script             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 6 mins        ████████████░░░░░░░░░░░░░   49.93 % 
-VS Code                  6 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.33 % 
-IntelliJ IDEA            1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-Opencode Cli             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+PyCharm                  8 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.77 % 
+VS Code                  5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+Codex Vscode             2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+IntelliJ IDEA            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-GRID                     14 hrs 35 mins      ██████████████████████░░░   89.90 % 
-microtrend               1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-fenghe-wechat-push       7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-baymax-index             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-ningbo                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+GRID                     15 hrs 46 mins      ████████████████████████░   97.60 % 
+weather_crawler          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+baymax-index             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+fenghe-wechat-push       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+gfzx_ai_proxy            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 2 mins (61.83%)
+⏱ AI Coding Time: 10 hrs 45 mins (66.58%)
 
-✍️ 4,390 lines written by AI, 95 lines written by hand (97.88% AI-written)
+✍️ 7,113 lines written by AI, 187 lines written by hand (97.44% AI-written)
 
-🔤 123,269,384 Input Tokens, 355,327 Output Tokens
+🔤 105,495,967 Input Tokens, 441,813 Output Tokens
 
-💵 $625.94 Estimated AI Cost This Week
+💵 $562.27 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 127 AI Prompts
+🧠 16 AI Sessions, 140 AI Prompts
 
-GPT                      6,006 lines         █████████████████████████   100.00 % 
-Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      8,653 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.88% of written lines came from AI
-📚 Verbose Prompter — average 1,575 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 5.04% of changed lines were hand-edited
+🤖 AI-Driven — 97.44% of written lines came from AI
+📚 Verbose Prompter — average 2,989 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 4.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +114,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:12:28 UTC
+ Last Updated on 10/08/2026 19:33:12 UTC
 <!--END_SECTION:waka-->
 
 
