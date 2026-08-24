@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C285%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C293%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-290%20hrs%2042%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,48 +55,48 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   6 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Markdown                 4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-YAML                     4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-Bash                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-TOML                     1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+Python                   9 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   31.79 % 
+Markdown                 8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+YAML                     6 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Bash                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+TOML                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔥 Editors: 
-PyCharm                  16 hrs 32 mins      ███████████████████░░░░░░   77.04 % 
-Codex Vscode             4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+PyCharm                  20 hrs 1 min        █████████████████░░░░░░░░   69.24 % 
+Codex Vscode             8 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   30.76 % 
 
 🐱‍💻 Projects: 
-fenghe-sensitive         11 hrs 8 mins       █████████████░░░░░░░░░░░░   51.89 % 
-GRID                     9 hrs 10 mins       ███████████░░░░░░░░░░░░░░   42.75 % 
-fenghe-tools             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-fenghe-wechat-push       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+GRID                     16 hrs 37 mins      ██████████████░░░░░░░░░░░   57.48 % 
+fenghe-sensitive         11 hrs 8 mins       ██████████░░░░░░░░░░░░░░░   38.54 % 
+fenghe-tools             27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Unknown Project          15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+fenghe-wechat-push       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 41 mins (68.45%)
+⏱ AI Coding Time: 19 hrs 29 mins (67.4%)
 
-✍️ 4,151 lines written by AI, 4,138 lines written by hand (50.08% AI-written)
+✍️ 7,860 lines written by AI, 4,746 lines written by hand (62.35% AI-written)
 
-🔤 12,799,602 Input Tokens, 837,055 Output Tokens
+🔤 16,505,788 Input Tokens, 1,054,791 Output Tokens
 
-💵 $227.96 Estimated AI Cost This Week
+💵 $284.20 Estimated AI Cost This Week
 
-🧠 28 AI Sessions, 189 AI Prompts
+🧠 31 AI Sessions, 231 AI Prompts
 
-Glm                      2,142 lines         █████████████░░░░░░░░░░░░   51.01 % 
-GPT                      2,057 lines         ████████████░░░░░░░░░░░░░   48.99 % 
+GPT                      6,181 lines         ███████████████████░░░░░░   74.26 % 
+Glm                      2,142 lines         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 50.08% of written lines came from AI
-📚 Verbose Prompter — average 2,711 characters per prompt
+⚖️ Balanced with AI — 62.35% of written lines came from AI
+📚 Verbose Prompter — average 2,579 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 65.54% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 52.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2026 18:58:34 UTC
+ Last Updated on 24/08/2026 19:10:50 UTC
 <!--END_SECTION:waka-->
 
 
