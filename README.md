@@ -55,48 +55,49 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 5 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.69 % 
-YAML                     5 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.68 % 
-Python                   3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
-Go                       1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+Markdown                 4 hrs 45 mins       ██████████░░░░░░░░░░░░░░░   38.73 % 
+Python                   3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+YAML                     2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Bash                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+.env file                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🔥 Editors: 
-PyCharm                  11 hrs 37 mins      █████████████████░░░░░░░░   66.15 % 
-IntelliJ IDEA            3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Codex Vscode             2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+PyCharm                  9 hrs 15 mins       ███████████████████░░░░░░   75.36 % 
+IntelliJ IDEA            1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Codex Vscode             1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🐱‍💻 Projects: 
-GRID                     5 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.18 % 
-fenghe-sensitive         4 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   26.65 % 
-gfzx_ai_proxy            3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-fenghe-tools             1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-llm-guardian             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+fenghe-sensitive         4 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.28 % 
+GRID                     2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+fenghe-tools             1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+gfzx_ai_proxy            1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+llm-guardian             1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 27 mins (53.84%)
+⏱ AI Coding Time: 6 hrs 49 mins (55.65%)
 
-✍️ 4,497 lines written by AI, 180 lines written by hand (96.15% AI-written)
+✍️ 3,549 lines written by AI, 106 lines written by hand (97.1% AI-written)
 
-🔤 4,296,979 Input Tokens, 446,713 Output Tokens
+🔤 2,374,323 Input Tokens, 345,360 Output Tokens
 
-💵 $136.03 Estimated AI Cost This Week
+💵 $100.93 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 88 AI Prompts
+🧠 21 AI Sessions, 74 AI Prompts
 
-Glm                      3,241 lines         █████████████████░░░░░░░░   68.09 % 
-GPT                      1,519 lines         ████████░░░░░░░░░░░░░░░░░   31.91 % 
+Glm                      3,124 lines         ██████████████████████░░░   86.20 % 
+GPT                      500 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.15% of written lines came from AI
-📄 Detailed Prompter — average 971 characters per prompt
+🤖 AI-Driven — 97.1% of written lines came from AI
+📄 Detailed Prompter — average 928 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.93% of changed lines were hand-edited
+🚀 High AI Trust — 5.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +113,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:25:38 UTC
+ Last Updated on 31/08/2026 22:59:59 UTC
 <!--END_SECTION:waka-->
 
 
