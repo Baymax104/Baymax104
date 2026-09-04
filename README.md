@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C315%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C322%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-304%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-310%20hrs%2035%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,47 +55,44 @@ Sunday                   216 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   40.60 % 
-Python                   6 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   35.34 % 
-YAML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
-Bash                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-.env file                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Markdown                 7 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
+Python                   6 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   36.33 % 
+TypeScript               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+JavaScript               43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+.env file                37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-PyCharm                  16 hrs 38 mins      ████████████████████████░   96.19 % 
-IntelliJ IDEA            39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+PyCharm                  17 hrs 45 mins      █████████████████████████   99.48 % 
+IntelliJ IDEA            5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-llm-guardian             11 hrs 53 mins      █████████████████░░░░░░░░   68.73 % 
-fenghe-tools             1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-fenghe-sensitive         1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-fenghe-wechat-push       58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-gfzx_ai_proxy            40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+llm-guardian             16 hrs 45 mins      ███████████████████████░░   93.89 % 
+fenghe-sensitive         59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+baymax-blog              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 58 mins (74.98%)
+⏱ AI Coding Time: 13 hrs 8 mins (73.62%)
 
-✍️ 7,933 lines written by AI, 57 lines written by hand (99.29% AI-written)
+✍️ 20,115 lines written by AI, 99 lines written by hand (99.51% AI-written)
 
-🔤 5,300,105 Input Tokens, 679,279 Output Tokens
+🔤 6,663,723 Input Tokens, 837,677 Output Tokens
 
-💵 $543.49 Estimated AI Cost This Week
+💵 $628.40 Estimated AI Cost This Week
 
-🧠 18 AI Sessions, 133 AI Prompts
+🧠 16 AI Sessions, 130 AI Prompts
 
-Glm                      8,233 lines         █████████████████████████   99.99 % 
-Deepseek                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Glm                      20,372 lines        █████████████████████████   100.00 % 
+Deepseek                 1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📝 Concise Prompter — average 319 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.8% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 297 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 2.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -111,7 +108,7 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 21:16:00 UTC
+ Last Updated on 04/09/2026 20:58:09 UTC
 <!--END_SECTION:waka-->
 
 
