@@ -55,46 +55,46 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
-Python                   4 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
-TeX                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Bash                     1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-TypeScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Markdown                 6 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+Python                   3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
+TeX                      3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
+Bash                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Other                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Codex Vscode             11 hrs 8 mins       ██████████████░░░░░░░░░░░   56.93 % 
-PyCharm                  8 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.07 % 
+Codex Vscode             10 hrs 12 mins      █████████████████░░░░░░░░   67.91 % 
+PyCharm                  4 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
 
 🐱‍💻 Projects: 
-GRID                     11 hrs 40 mins      ███████████████░░░░░░░░░░   59.64 % 
-llm-guardian             3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-resume                   2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-research                 1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+GRID                     10 hrs 7 mins       █████████████████░░░░░░░░   67.34 % 
+resume                   2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
+research                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+llm-guardian             46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 9 mins (87.65%)
+⏱ AI Coding Time: 13 hrs 15 mins (88.25%)
 
-✍️ 14,508 lines written by AI, 36 lines written by hand (99.75% AI-written)
+✍️ 9,010 lines written by AI, 4 lines written by hand (99.96% AI-written)
 
-🔤 11,940,927 Input Tokens, 1,292,846 Output Tokens
+🔤 9,841,548 Input Tokens, 980,883 Output Tokens
 
-💵 $495.58 Estimated AI Cost This Week
+💵 $265.24 Estimated AI Cost This Week
 
-🧠 31 AI Sessions, 143 AI Prompts
+🧠 27 AI Sessions, 120 AI Prompts
 
-GPT                      11,985 lines        ████████████████████░░░░░   81.83 % 
-Glm                      2,430 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Codex-Vscode             232 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+GPT                      8,539 lines         ███████████████████████░░   93.71 % 
+Glm                      372 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Codex-Vscode             201 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.75% of written lines came from AI
-📚 Verbose Prompter — average 14,013 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🤖 AI-Driven — 99.96% of written lines came from AI
+📚 Verbose Prompter — average 16,119 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:35:36 UTC
+ Last Updated on 17/09/2026 21:38:42 UTC
 <!--END_SECTION:waka-->
 
 
