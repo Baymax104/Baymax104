@@ -55,19 +55,42 @@ Sunday                   218 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 8 hrs 12 mins       ███████████████████░░░░░░   74.28 % 
+YAML                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Python                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+Text                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+BibTeX                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             6 hrs 26 mins       ███████████████░░░░░░░░░░   58.25 % 
+PyCharm                  4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.75 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+GRID                     6 hrs 23 mins       ██████████████░░░░░░░░░░░   57.83 % 
+research                 4 hrs 39 mins       ███████████░░░░░░░░░░░░░░   42.17 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 10 hrs 53 mins (98.53%)
+
+✍️ 3,758 lines written by AI, 1 lines written by hand (99.97% AI-written)
+
+🔤 9,535,668 Input Tokens, 565,744 Output Tokens
+
+💵 $75.51 Estimated AI Cost This Week
+
+🧠 49 AI Sessions, 191 AI Prompts
+
+GPT                      4,166 lines         █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 52,969 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +106,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2026 21:43:40 UTC
+ Last Updated on 25/09/2026 21:46:49 UTC
 <!--END_SECTION:waka-->
 
 
