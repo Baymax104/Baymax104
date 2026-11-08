@@ -10,10 +10,6 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C386%20hrs%203%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-365%20hrs%2018%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -55,44 +51,19 @@ Sunday                   216 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.00 % 
-Python                   2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
-TypeScript               2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-Other                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  4 hrs 36 mins       ████████████████░░░░░░░░░   65.10 % 
-Pycharm                  2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   34.90 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-GRID                     2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
-research                 1 hr 57 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-nelvo                    1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.47 % 
-pi                       42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Unknown Project          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 57 mins (70.1%)
-
-✍️ 2,519 lines written by AI, 828 lines written by hand (75.26% AI-written)
-
-🔤 1,945,848 Input Tokens, 267,095 Output Tokens
-
-💵 $32.29 Estimated AI Cost This Week
-
-🧠 13 AI Sessions, 44 AI Prompts
-
-GPT                      2,519 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 75.26% of written lines came from AI
-📚 Verbose Prompter — average 2,599 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 24.92% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +79,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 21:48:54 UTC
+ Last Updated on 08/11/2026 06:44:52 UTC
 <!--END_SECTION:waka-->
 
 
