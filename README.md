@@ -55,19 +55,40 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 29 mins        █████████████████████░░░░   84.07 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Python                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+TeX                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pbz                      1 hr 27 mins        ████████████████████░░░░░   81.98 % 
+research                 17 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+qt-r                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 46 mins (100.0%)
+
+✍️ 551 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 881,495 Input Tokens, 72,561 Output Tokens
+
+💵 $21.75 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 20 AI Prompts
+
+GPT                      559 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 329 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -83,7 +104,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2026 23:04:56 UTC
+ Last Updated on 17/11/2026 01:59:09 UTC
 <!--END_SECTION:waka-->
 
 
