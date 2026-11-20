@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C394%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C401%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-366%20hrs%2056%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-371%20hrs%2027%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,43 +55,43 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               14 hrs 42 mins      ████████████████████░░░░░   78.38 % 
-Other                    3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+TypeScript               19 hrs 43 mins      █████████████████████░░░░   82.69 % 
+Other                    3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 
 🔥 Editors: 
-PyCharm                  18 hrs 45 mins      █████████████████████████   100.00 % 
+PyCharm                  23 hrs 51 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-nelvo                    15 hrs 16 mins      ████████████████████░░░░░   81.46 % 
-GRID                     1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-pbz                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-research                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-qt-r                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+nelvo                    20 hrs 19 mins      █████████████████████░░░░   85.19 % 
+GRID                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+pbz                      1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+research                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+qt-r                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 38 mins (40.76%)
+⏱ AI Coding Time: 10 hrs 17 mins (43.17%)
 
-✍️ 657 lines written by AI, 574 lines written by hand (53.37% AI-written)
+✍️ 842 lines written by AI, 804 lines written by hand (51.15% AI-written)
 
-🔤 4,822,271 Input Tokens, 316,019 Output Tokens
+🔤 5,477,911 Input Tokens, 391,213 Output Tokens
 
-💵 $59.69 Estimated AI Cost This Week
+💵 $65.02 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 120 AI Prompts
+🧠 21 AI Sessions, 184 AI Prompts
 
-GPT                      665 lines           █████████████████████████   100.00 % 
+GPT                      855 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 53.37% of written lines came from AI
-📝 Concise Prompter — average 468 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 55.81% of changed lines were hand-edited
+⚖️ Balanced with AI — 51.15% of written lines came from AI
+📝 Concise Prompter — average 376 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🔍 Hands-On Reviewer — 56.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/11/2026 00:40:47 UTC
+ Last Updated on 20/11/2026 00:49:49 UTC
 <!--END_SECTION:waka-->
 
 
