@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C422%20hrs%2058%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-383%20hrs%2054%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,46 +55,46 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               33 hrs 43 mins      ██████████████████████░░░   86.66 % 
-Other                    2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
-JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Markdown                 58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               26 hrs 36 mins      █████████████████████░░░░   82.18 % 
+Other                    3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+JSON                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Go                       10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🔥 Editors: 
-PyCharm                  38 hrs 37 mins      █████████████████████████   99.27 % 
-GoLand                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+PyCharm                  31 hrs 49 mins      █████████████████████████   98.30 % 
+GoLand                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-nelvo                    36 hrs 29 mins      ███████████████████████░░   93.79 % 
-GRID                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-test                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-bh-wo                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+nelvo                    28 hrs 54 mins      ██████████████████████░░░   89.27 % 
+GRID                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+go-learning              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+bh-wo                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+test                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 19 mins (47.07%)
+⏱ AI Coding Time: 18 hrs 16 mins (56.42%)
 
-✍️ 4,709 lines written by AI, 2,016 lines written by hand (70.02% AI-written)
+✍️ 4,715 lines written by AI, 1,738 lines written by hand (73.07% AI-written)
 
-🔤 9,404,799 Input Tokens, 904,874 Output Tokens
+🔤 9,396,218 Input Tokens, 914,810 Output Tokens
 
-💵 $221.64 Estimated AI Cost This Week
+💵 $223.49 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 319 AI Prompts
+🧠 49 AI Sessions, 326 AI Prompts
 
-GPT                      4,830 lines         █████████████████████████   99.59 % 
+GPT                      4,837 lines         █████████████████████████   99.59 % 
 GLM                      20 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 70.02% of written lines came from AI
-📄 Detailed Prompter — average 517 characters per prompt
+🤖 AI-Driven — 73.07% of written lines came from AI
+📄 Detailed Prompter — average 527 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 45.23% of changed lines were hand-edited
+🚀 High AI Trust — 42.92% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2026 04:01:54 UTC
+ Last Updated on 25/11/2026 02:44:13 UTC
 <!--END_SECTION:waka-->
 
 
