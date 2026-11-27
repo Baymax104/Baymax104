@@ -10,9 +10,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C424%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C427%20hrs%203%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-385%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2015%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.58%20million%20lines%20of%20code-blue?style=flat)
 
@@ -55,46 +55,46 @@ Sunday                   211 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               19 hrs 34 mins      ██████████████████░░░░░░░   71.36 % 
-Other                    2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
-Go                       1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+TypeScript               14 hrs 33 mins      ███████████████░░░░░░░░░░   58.92 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Go                       2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🔥 Editors: 
-PyCharm                  23 hrs 5 mins       █████████████████████░░░░   84.15 % 
-GoLand                   4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+PyCharm                  19 hrs 59 mins      ████████████████████░░░░░   80.97 % 
+GoLand                   4 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
+OpenCode                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🐱‍💻 Projects: 
-nelvo                    21 hrs 46 mins      ████████████████████░░░░░   79.36 % 
-go-learning              4 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-bh-wo                    21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-test                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-GRID                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+nelvo                    16 hrs 43 mins      █████████████████░░░░░░░░   67.73 % 
+go-learning              5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+minimind                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+test                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+bh-wo                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 43 mins (57.31%)
+⏱ AI Coding Time: 14 hrs 25 mins (58.38%)
 
-✍️ 4,905 lines written by AI, 1,679 lines written by hand (74.5% AI-written)
+✍️ 4,726 lines written by AI, 1,501 lines written by hand (75.9% AI-written)
 
-🔤 6,310,857 Input Tokens, 732,397 Output Tokens
+🔤 5,996,023 Input Tokens, 692,019 Output Tokens
 
-💵 $201.63 Estimated AI Cost This Week
+💵 $107.02 Estimated AI Cost This Week
 
-🧠 56 AI Sessions, 299 AI Prompts
+🧠 63 AI Sessions, 271 AI Prompts
 
-GPT                      4,836 lines         ████████████████████████░   95.82 % 
-GLM                      211 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+GPT                      4,646 lines         ████████████████████████░   95.54 % 
+GLM                      217 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.5% of written lines came from AI
-📄 Detailed Prompter — average 578 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 40.29% of changed lines were hand-edited
+🤖 AI-Driven — 75.9% of written lines came from AI
+📄 Detailed Prompter — average 670 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 39.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +110,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 01:55:29 UTC
+ Last Updated on 27/11/2026 01:53:26 UTC
 <!--END_SECTION:waka-->
 
 
